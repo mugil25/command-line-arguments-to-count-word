@@ -35,7 +35,7 @@ words=data.split()
 print("Total Words:",len(words))
 ```
 ## OUTPUT:
-![image](https://github.com/mugil25/command-line-arguments-to-count-word/assets/148515771/45a3ad96-b431-482d-b7db-7baa79a1e16f)
+
 
 ![Screenshot (72)](https://github.com/mugil25/command-line-arguments-to-count-word/assets/148515771/5f049108-7ef2-4732-bac8-0e6006655592)
 
